@@ -1,0 +1,31 @@
+div {
+    color: rgb(103, 154, 199);
+}
+.block-class {
+    color: green;
+}
+#orange {
+    color: rgb(255, 174, 0);
+}
+[lable] {
+    color: rgb(255, 0, 191);
+}
+[lable="that"] {
+    color: brown;
+}
+
+.block1, .block2, .block3 {
+    color: rgb(49, 226, 43);
+}
+
+div.blue-block {
+    color: black;
+}
+
+.perent>.child {
+    background: red;
+}
+
+div .green {
+    color: red;
+}

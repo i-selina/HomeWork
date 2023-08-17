@@ -1,0 +1,30 @@
+.open-sans {
+    font-family: 'Open Sans', "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.new {
+text-align: center;
+line-height: 50px;
+font-size: 10px;
+font-weight: 900px;
+font-style: italic;
+}
+
+.star {
+    font-family: 'Rubik Wet Paint', "Arial", cursive;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 400px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.tural {
+    font-family: 'Montserrat Alternates', "Arial", sans-serif;
+    font-size: 40px;
+    line-height: 30px;
+    text-align: center;
+}

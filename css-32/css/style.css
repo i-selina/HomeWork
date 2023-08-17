@@ -1,0 +1,42 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block, .inline {
+    background: rgb(255, 176, 176);
+}
+.block { 
+    padding: 50px;
+}
+
+
+/* ======================================= */
+
+/* .block-1 {
+    margin: 20px 10px 50px;
+}
+
+.inline {
+    margin: 50px 100px;
+} */
+
+.block-1 {
+    border: 10px groove #910c86;
+    border-radius: 30px;
+}
+
+.block-2 {
+    /* border: 20px solid #070585; */
+    outline: 10px groove #910c86;
+}
+
+.img {
+    margin: 50px;
+    border: 100px groove #00f;
+    border-top: 100px solid #000;
+    outline: 50px solid #0f0;
+}

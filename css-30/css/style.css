@@ -1,0 +1,21 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block, .inline {
+    background: rgb(255, 176, 176);
+}
+.block { 
+    padding: 50px;
+}
+
+
+/* ======================================= */
+
+.block-1 {
+    padding: 50px 20px 10px;
+}

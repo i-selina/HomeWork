@@ -1,0 +1,38 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block, .inline {
+    background: rgb(255, 176, 176);
+}
+.block { 
+    padding: 50px;
+}
+
+
+/* ======================================= */
+
+/* .block-2 {
+    box-shadow: inset 10px 10px 10px 10px #000;
+    border-radius: 20px;
+}
+.img {
+    box-shadow: 20px 10px 90px #b510e7, 20px 10px 80px #2c0338;
+    border-radius: 20px;
+} */
+
+.block {
+    display: inline-block;
+    width: 300px;
+}
+.inline {
+    display: block;
+}
+.img {
+    /* display: block; */
+}
+

@@ -1,0 +1,31 @@
+body {
+    font-size: 40px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+/* ======================================= */
+
+div.block {
+    display: inline-block;
+    background: #f0b777;
+    width: 600px;
+    height: 500px;
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid #ac179f;
+    border-radius: 50px;
+    box-shadow: inset 1px 1px 50px #ac179f;
+}
+
+.block-1 {
+    border: 5px solid #000;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    height: 1200px;
+    overflow: auto;
+}
